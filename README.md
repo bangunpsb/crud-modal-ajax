@@ -7,13 +7,13 @@
 ####   Screenshot view :
 ####    Form Login
 
-![Logo ArtiVisi](img/login.jpg)
+![Logo ArtiVisi](assets/img/login.jpg)
 ####    Form add data
-![Logo ArtiVisi](img/add.jpg)
+![Logo ArtiVisi](assets/img/add.jpg)
 ####    Form edit data
-![Logo ArtiVisi](img/edit.jpg)
+![Logo ArtiVisi](assets/img/edit.jpg)
 ####    Form view data
-![Logo ArtiVisi](img/view.jpg)
+![Logo ArtiVisi](assets/img/view.jpg)
 
 
 
